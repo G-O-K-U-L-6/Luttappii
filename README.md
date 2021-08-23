@@ -7,7 +7,7 @@
  src="https://img.shields.io/badge/-Luttappii-blue?&style=for-the-badge"></a>
  </p>
   <p align="center">
-<a href="https://wa.me/917736703116"><img title="Author" src="https://img.shields.io/badge/Author-G6_Creations/Luttappii?color=Blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/919496314303"><img title="Author" src="https://img.shields.io/badge/Author-G6_Creations/Luttappii?color=Blue&style=for-the-badge&logo=whatsapp"></a>
  </p>
  
 ## Subscriber My Channel More Updates Coming Soon..
@@ -21,7 +21,7 @@ https://youtube.com/channel/UCnV3g2gyBmGYhVvZU_KmxYg
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://wa.me/9496314303)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://wa.me/919496314303)
   <div align="center">
  
 
